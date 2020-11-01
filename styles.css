@@ -1,0 +1,20 @@
+.site-footer {
+        background-image: linear-gradient(#f800ff, #a8478a);
+        padding: 20px 0; 
+    }
+      
+.jumbotron {
+        margin: 0;
+        padding: 30px;
+        background-image: linear-gradient(to right, #a8478a, #e286e8, #f800ff);
+        color: white; 
+}
+
+.navbar {
+    background-color: #3438f4;
+
+}
+
+a {
+    color: white;
+}
